@@ -1,88 +1,118 @@
 
-### Hi there 👋 
+### Всем привет 👋 
 
-My name is Michael
+Меня зовут Михаил
 
-🔭 I'm a Junior JavaScript Developer interested in frontend and backend development.
+🔭 Я JavaScript/Python-разработчик заинтересованный во фронтенд и бекенд разработке.
 
-#### Higher education
-2017, Lugansk National University named after Volodymyr Dahl
-Management, Master Degree in management of financial and economic security
+#### Высшее образование
+2017, Луганский национальный университет имени Владимира Даля
+Менеджмент, магистр по направлению подготовки - Управление финансово-экономической безопасностью
 
-#### Electronic certificates
-2022, Hexlet - frontend development
-2021, Hexlet - layout designer
+#### Электорнные сертификаты
+2024, Hexlet - Python-разработчик
+2023, Hexlet - Фулстек-разработчик
+2023, Hexlet - Node.js-разработчик
+2022, Hexlet - фронтенд разработчик
+2021, Hexlet - верстальщик
 
-#### Work experience
-October 2020 — currently, Hexlet(ru.hexlet.io)
-layout-designer and JavaScript tutor
-Main responsibilities:
-Checking student projects, code review, error analysis.
-Consulting on the training program.
-Transfer of experience, instilling a good coding style.
-Acceptance of projects and sending them to the review mentor. Interaction and analysis of students' mistakes with the mentor of the profession. Consulting on Slack.
-Transfer of experience, instilling a good coding style.
-Acceptance of projects.
-Main achievements:
-Simultaneously led 2 students. During the period of my mentoring under my leadership, projects were defended by 2 students.
+#### Опыт работы
+Октябрь 2020 - по настоящее время, Hexlet(ru.hexlet.io)
+Наставник по вёрстке, JavaScript, Python
+Обязанности:
+Проверка проектов учеников, ревью кода, разбор ошибок.
+Консультирование по программе обучения.
+Передача опыта, привитие хорошего стиля кодирования.
+Приём проектов и отправка их на ревью ментора. Взаимодействие и разбор ошибок студентов с ментором профессии.
+Главные достижения:
+Одновременно вёл 3 учеников. За период моего наставничества под моим руководством проекты защитило - 2 ученика.
+Консультирование по скайпу.
+Передача опыта, привитие хорошего стиля кодирования.
+Приёмка проектов.
 
-January 2020 — currently, Rocket LTD(liga-a.ru)
-layout-designer tutor
-Main responsibilities:
-Verification of students' practical tasks, review of the code, analysis of errors.
-Consultation on Slack. Transfer of experience, instilling a good coding style.
+Январь 2020 - по настоящее время, ООО Ракета (liga-a.ru)
+Наставник по вёрстке
+Обязанности:
+Проверка проектов студентов, ревью кода, тестирование проектов, разбор ошибок.
+Консультирование в слаке.
+Передача опыта, привитие хорошего стиля кодирования.
+Приёмка финальных проектов.
 
-June 2019 — currently, Interactive Learning Technologies LTD(htmlacademy.ru)
-trainer - mentor course in HTML and CSS, levels 1 and 2
-Main responsibilities:
-Checking practical assignments of students, code review, analysis of errors. Consulting on Slack.
-Transfer of experience, instilling a good coding style.
-Acceptance of final projects.
-Main achievements:
-Simultaneously led 7 students. During the period of my mentoring under my leadership, the final projects were defended by - 14 students.
+Июнь 2019 - по настоящее время, HTML Academy (htmlacademy.ru)
+преподаватель - наставник курса по HTML и CSS, уровень 1 и 
+Обязанности:
+Проверка практических заданий учеников, ревью кода, разбор ошибок. 
+Главные достижения:
+Одновременно вёл 7 учеников. За период моего наставничества под моим руководством финальные проекты защитило - 14 учеников.
+Консультирование по скайпу.
+Передача опыта, привитие хорошего стиля кодирования.
+Приёмка финальных проектов.
 
-September 2021 — march 2022, IT League(itleague.ru)
-layout designer
-Main responsibilities:
-make e-mail mailings and landing pages
+Сентябрь 2021 - Март 2022, IT League (itleague.ru)
+HTML-верстальщик
+Обязанности:
+Вёрстка e-mail рассылок и лендингов.
 
-#### My skills
-- I use React to create one-page sites (SPA);
-- I use web sockets to work with real-time applications;
-- manage the state of the application through the Redux Toolkit;
-- I can integrate React with libraries that do not natively use it (Formik, i18n, react-bootstrap, React Router, Rollbar. etc.);
-- creating interactive applications in the browser and building them using Webpack;
-- effectively use the DOM API, make HTTP requests to the server using AJAX;
-- I use the MVC architectural approach to create applications that are resistant to changes;
-- form validation(yup);
-- project deployment;
-- setting up a working environment (linter (code quality analyzer) and npm dependency manager);
-- effective code debugging (debugger);
-- search for technical information;
-- organizing tasks using a Kanban board (Trello);
-- algorithms and data structures;
-- functional programming (purity, side effects);
-- parsing, AST, interpreter/compiler operation, calculation order, typing)
-- creation of cli applications;
-- application architecture design;
-- writing unit tests;
-- layout on html and css;
-- layout using preprocessors precss, scss, less;
-- layout according to BEM methodology;
-- work with git console;
-- use of automation systems Grunt, Gulp;
-- layout on bootstrap;
-- connecting jquery plugins;
-- work with Photoshop, Illustrator, XD, Zeplin at the level necessary for layout layouts from psd, xd formats.
+#### Мои навыки 
+- Создание одностраничных сайтов (SPA) с использованием React;
+- Использование веб-сокетов для работы с приложениями реального времени;
+- Управление состоянием приложения через Redux Toolkit;
+- Интеграция React с библиотеками, которые изначально не используют его (Formik, i18n, react-bootstrap, React Router, Rollbar и т.д.);
+- Создание интерактивных приложений в браузере и сборка их с помощью Webpack;
+- Эффективное использование DOM API и выполнение HTTP-запросов к серверу с помощью AJAX;
+- Использование архитектурного подхода MVC для создания устойчивых к изменениям приложений;
+- Валидация форм (yup) и деплой проекта;
+- Настройка рабочего окружения с помощью линтера (анализатора качества кода) и менеджера зависимостей npm;
+- Эффективная отладка кода (дебагер) и организация задач с помощью Kanban-доски (Trello);
+- Алгоритмы и структуры данных, функциональное программирование (чистота, побочные эффекты);
+- Парсинг, AST, работа интерпретатора/компилятора, порядок вычислений, типизация. Создание CLI приложений, проектирование архитектуры приложений и написание unit-тестов;
+- Вёрстка на HTML и CSS с использованием препроцессоров precss, scss, less и методологии БЭМ;
+- Работа с Git консолью, системами автоматизации Grunt и Gulp и подключение jQuery плагинов;
+- Вёрстка на Bootstrap и работа с Photoshop, Illustrator, XD и Zeplin;
+- Владею языком программирования Python;
+- Имею опыт разработки и поддержки веб-приложений на основе Python (фреймворки Django или Flask);
+- Владею базовыми и продвинутыми концепциями Python;
+- Знаю принципы объектно-ориентированного программирования (ООП) и паттернов проектирования;
+- Умею работать с базами данных (SQL);
+- Знаю основные принципы и инструменты тестирования кода (PyTest);
+- Использую RESTful API для взаимодействия с другими приложениями;
+- Провожу тестирование приложений;
+- Знаю концепции и инструменты развертывания приложений (Docker) Успешно завершил профессии Фулстек-разработчик, Node.js-разработчик, Фронтенд-разработчик, Python-разработчик и Верстальщик на Хекслете.
 
-#### About me
-- 🌱 I’m currently learning backend JavaScript and testing in JavaScript 
-- 😄 love coding and learning programming
-- ⚡ Open to work! remote(JavaScript trainee)
-- 🎓 my Hexlet profile: [https://ru.hexlet.io/u/k2miha](https://ru.hexlet.io/u/k2miha)  
+#### Мои проекты
+1. [Игры разума](https://github.com/mkolotovich/frontend-project-lvl1)
+пять простых консольных игр, построенных по принципу популярных мобильных приложений для тренировки мозга. Проект использовал JS, Git, readline-sync, ESLint Airbnb.
+2. [Вычислитель отличий](https://github.com/mkolotovich/frontend-project-lvl2)
+Консольная утилита, вычисляющая различия между файлами в форматах json/yaml. 
+Проект использовал commander, Lodash, fs/promises API, GitHub Actions, ESLint Airbnb и разработку через тестирование TDD. 
+3. [RSS агрегатор](https://github.com/mkolotovich/frontend-project-lvl3)
+Rss Reader – ссервис для агрегации RSS-потоков, который обновляет и добавляет новые записи в общий поток. Проект использовал Lodash, GitHub Actions, ESLint Airbnb, JS, webpack, Bootstrap, AJAX и MVC. 
+4. [Чат (Slack)](https://github.com/mkolotovich/frontend-project-lvl4)
+аналог Slack-чата. Проект использовал React/Redux, AJAX, REST, websockets, хуки React и Redux Toolkit, Formik и JS.
+5. [Загрузчик страниц](https://github.com/mkolotovich/backend-project-lvl3)
+– утилита командной строки, которая скачивает страницы из интернета и сохраняет их на компьютере. Проект использовал commander, Lodash, fs/promises API и JS. 
+6. [Мессенджер «Hexlet Chat»](https://github.com/mkolotovich/layout-designer-project-lvl3) проект онлайн-чата, в котором пользователи могут обмениваться сообщениями и вести список контактов. Проект использовал Pug, SASS, Bootstrap и Git. 
+7. [Music Box](https://github.com/mkolotovich/layout-designer-project-lvl2)
+музыкальный портал «Music Box», который предоставляет доступ к онлайн прослушиванию музыки. Проект использовал Git, SASS и Surge. 
+8. [Когнитивные искажения](https://github.com/mkolotovich/layout-designer-project-lvl1)
+лендинг, описывающий распространённые когнитивные искажения в программировании. Проект использовал GitHub, npm и Surge. 
+9. [Менеджер задач](https://github.com/mkolotovich/backend-project-6) – система управления задачами, подобная http://www.redmine.org/. Она позволяет ставить задачи, назначать исполнителей и менять их статусы. Для работы с системой требуется регистрация и аутентификация. Проект использовал проектирование баз данных, PaaS, Rollbar, webpack, PostCSS, ORM, фреймворк Fastify, шаблонизацию и Bootstrap.
+10.  [Игры разума](https://github.com/mkolotovich/python-project-49)
+пять простых консольных игр, построенных по принципу популярных мобильных приложений для тренировки мозга. Проект использовал Python, Git, Poetry, flake8.
+11.  [Вычислитель отличий](https://github.com/mkolotovich/python-project-50)
+Консольная утилита, вычисляющая различия между файлами в форматах json/yaml. 
+Проект использовал argparse, pytest, JSON, YAML, CI(GitHub Actions), flake8 и разработку через тестирование TDD. 
+12. [Анализатор страниц](https://github.com/mkolotovich/python-project-83) – сайт, который анализирует указанные страницы на SEO-пригодность по аналогии с PageSpeed Insights. Проект использовал Python, Git, Poetry, flake8, Flask, psycopg, Bootstrap, деплой на render.com.
+13. [Менеджер задач](https://github.com/mkolotovich/python-project-52) – система управления задачами, подобная http://www.redmine.org/. Она позволяет ставить задачи, назначать исполнителей и менять их статусы. Для работы с системой требуется регистрация и аутентификация. Проект использовал проектирование баз данных, PaaS, Rollbar, ORM, фреймворк Django, шаблонизация и Bootstrap.
+
+#### Обо мне
+- 🌱 Я сейчас изучаю PHP
+- 😄 люблю кодить и изучать программирование
+- ⚡ Вхожу в топ 25 студентов на Хекслете по рейтингу.
+- 🎓 мой Hexlet профиль: [https://ru.hexlet.io/u/mikhailkolotovich](https://ru.hexlet.io/u/mikhailkolotovich)
 - 💬 CV: [Hexlet](https://cv.hexlet.io/resumes/110)
 
-#### How to reach me:
+#### Как со мной связаться:
 - 📫 Email: k2punk@gmail.com
 - 📱 Telegram: [@mkolotovich](https://t.me/mkolotovich)
 - 📑 LinkedIn: [Mihail Kolotovich](https://www.linkedin.com/in/mihail-kolotovich-frontender/)
